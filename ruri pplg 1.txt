@@ -1,0 +1,39 @@
+1.Anda diminta untuk membuat rancangan algoritma untuk menghitung biaya fotocopy dengan ketentuan sebagai berikut:
+A.Harga fotocopy adalah 500 per lembar
+B.Biaya fotocopy dihitung berdasarkan jumlah lembar dikalikan dengan harga per lembarnya
+C.Jika jumlah lembar fotocopy-an >=200 lembar, maka mendapat diskon sebesar 10% dari biaya fotocopy-an
+D.Jika jumlah lembar fotocopy-an >=100 lembar, maka mendapat diskon sebesar 5% dari biaya fotocopy-an
+E.Jika jumlah lembar fotocopy-an <200 lembar, maka tidak mendapat diskon
+F.Total bayar dihitung berdasarkan biaya fotocopy-an dikurangi diskon yang diperoleh berdasarkan ketentuan
+Output pada struk pembayaran diminta untuk menampilkan nama kasir, nama pelanggan, jumlah lembar fotocopy, biaya fotocopy, diskon, dan total bayar.
+
+3.Anda diminta untuk membuat rancangan algoritma untuk menampilkan deret bilangan sesuai dengan ouput berikut ini:
+
+Output:
+4 3 2 1 Yess
+
+4.Anda diminta untuk membuat rancangan algoritma untuk menampilkan deret bilangan genap kurang dari 15, dimulai dari 14 sampai 0. Output yang diminta adalah deret bilangannya, jumlah semua bilangan dan rata-ratanya. Algoritma ini dibuat dengan sistem modulus.
+
+Ilustrasi Output:
+14 12 10 8 6 4 2 0
+Jumlah = 56
+Rata-rata = 7
+
+
+
+    ALGORIMA:
+1.mulai
+2.input nama kasir 
+3.input nama pelanggan
+4.input jumlah lembar
+5.harga 500 per lembar
+6..biaya jumlah lembar*harga pelembar
+7.jika fotocopy-an >=200 lembar,diskon sebesar 10% 
+8.jika fotocopy-an >=100 lembar,diskon sebesar 5%
+9.jika fotocopy-an >=200 lembar,tidak mendapat diskon
+10.hitung jumlah bayar
+11.hitung total bayar
+12.input jumlah fotocopy-an
+13.input jumlah bayar
+14.input total bayar 
+15.selesai
